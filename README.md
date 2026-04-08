@@ -29,7 +29,7 @@ Before you begin, ensure you have the following tools installed:
      
 ### Clone the Repository
 ```bash
-git clone https://github.com/ShariarSheikh/resturant-website.git
+gh repo clone Sibghat001/Restaurant-Website
 ```
 
 ### Install Dependencies
